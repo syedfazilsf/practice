@@ -4,7 +4,7 @@
   <artifactId>MyProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
-  	<finalName>git-jenkins-docker</finalName>
+  	<finalName>practice</finalName>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
